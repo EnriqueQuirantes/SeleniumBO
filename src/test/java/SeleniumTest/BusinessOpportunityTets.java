@@ -39,7 +39,7 @@ public class BusinessOpportunityTets {
 		submit.click();
 		
 		Thread.sleep(2000);
-		
+		//affirmative case
 		user.clear();
 		password.clear();
 		user.sendKeys("Solera@solera.com");
